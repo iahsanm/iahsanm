@@ -47,7 +47,7 @@
 
 
 <p>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=iahsanm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=iahsanm&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=iahsanm&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
 
