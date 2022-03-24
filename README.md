@@ -32,12 +32,11 @@
 </div>
 
 
-![AWS](https://img.shields.io/badge/aws-%23E34F26.svg?style=for-the-badge&logo=aws)
+![AWS](https://img.shields.io/badge/aws-%23E34F26.svg?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/docker-%23E34F26.svg?style=for-the-badge&logo=docker)
 ![CircleCI](https://img.shields.io/badge/circleci-%231572B6.svg?style=for-the-badge&logo=circleci)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Pandas](https://img.shields.io/badge/pandas-%230081CB.svg?style=for-the-badge&logo=pandas)
 ![GraphQL](https://img.shields.io/badge/graphql-%2338B2AC.svg?style=for-the-badge&logo=graphql)
