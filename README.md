@@ -3,10 +3,12 @@
          height="45"
          width="45" />, &lt;folks/&gt;! </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Ahsan+Malik;Computer Engineer working as a Sr.SWE;Tech Lead at Arbisoft;ML enthusiast)](https://git.io/typing-svg)
 
-       [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239251F7&lines=Computer Engineer working as a Sr.SWE;Tech Lead t;Aspiring Solution Architect)](https://git.io/typing-svg)
-</div>
+
+<h2 align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Ahsan+Malik;Sr. Software Engineer;Full Stack Developer;ML enthusiast;Tech Lead at Arbisoft)](https://git.io/typing-svg)
+    </h2>
+
 
 - 💬 Ask me about **Python, Django, AWS Services, CircleCI**
 
