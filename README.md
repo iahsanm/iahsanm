@@ -6,7 +6,7 @@
 
 
 <h2 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Ahsan+Malik;Senior+Software+Engineer;Full+Stack Developer;Tech+Lead+at+Arbisoft;AI/ML+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Ahsan+Malik;Senior+Software+Engineer;Full+Stack+Developer;Tech+Lead+at+Arbisoft;AI/ML+enthusiast)](https://git.io/typing-svg)
     </h2>
 
 
