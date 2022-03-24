@@ -47,7 +47,10 @@
 <hr>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iahsanm" alt="iahsanm" /></p>
+<p>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=FatimaYousif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=FatimaYousif&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+</p>
 
 <a href="https://github.com/iahsanm"><img alt="Ahsan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iahsanm&theme=react-dark&hide_border=true&area=true" /></a>
 
