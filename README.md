@@ -11,14 +11,14 @@
 - 📫 How to reach me **ahsanmalik93@gmail.com**
 
 <p align="center">
-  <a href="https://github.com/FatimaYousif?tab=followers">
+  <a href="https://github.com/iahsanm?tab=followers">
     <img src="https://img.shields.io/github/followers/iahsanm?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://www.linkedin.com/in/ahsan-muhammad-malik-354095100/" target="_blank">
   <img alt="Ahsan M | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="http://twitter.com/iahsanm">
-    <img src="https://img.shields.io/twitter/follow/fatima_yousifx?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/ahsan93">
+    <img src="https://img.shields.io/twitter/follow/ahsan93?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   </a>
 <a href="https://www.instagram.com/iahsanm" target="_blank">
