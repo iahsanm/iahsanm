@@ -3,6 +3,8 @@
          height="45"
          width="45" />, &lt;folks/&gt;! </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Ahsan+Malik;Computer Engineer working as a Sr.SWE;Tech Lead at Arbisoft;ML enthusiast)](https://git.io/typing-svg)
+
        [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239251F7&lines=Computer Engineer working as a Sr.SWE;Tech Lead t;Aspiring Solution Architect)](https://git.io/typing-svg)
 </div>
 
