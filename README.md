@@ -8,11 +8,11 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Ahsan+Malik;Senior+Software+Engineer;Full+Stack+Developer;Tech+Lead+at+Arbisoft;AI+enthusiast)](https://git.io/typing-svg)
     </h2>
 
-- 💬 Ask me about **Python, Django, AWS Services, CircleCI**
-
-- 📫 How to reach me **ahsanmalik93@gmail.com**
 
 <p align="center">
+<a href="mailto:ahsanmalik93@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" />
+  </a>
   <a href="https://github.com/iahsanm?tab=followers">
     <img src="https://img.shields.io/github/followers/iahsanm?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
@@ -52,6 +52,9 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=iahsanm&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=iahsanm&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
+
+  <div> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+
 
 <a href="https://github.com/iahsanm"><img alt="Ahsan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iahsanm&theme=react-dark&hide_border=true&area=true" /></a>
 
