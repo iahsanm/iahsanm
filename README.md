@@ -53,8 +53,5 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=iahsanm&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
 
-  <div> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-
-
 <a href="https://github.com/iahsanm"><img alt="Ahsan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iahsanm&theme=react-dark&hide_border=true&area=true" /></a>
 
