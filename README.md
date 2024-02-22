@@ -1,5 +1,15 @@
 ### Hi there 👋 I'm Ahsan Malik
 
+<p align="center" style="text-align: center; width:100%;">
+    <h6>I CAN SPEAK</h6>
+    <span>
+        <img src="https://img.shields.io/badge/python-%23777BB4.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    </span>
+</p>
+
 <!--
 **iahsanm/iahsanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
