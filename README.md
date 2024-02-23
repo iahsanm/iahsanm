@@ -3,10 +3,10 @@
 <p align="center" style="text-align: center; width:100%;">
     <h6>I CAN SPEAK</h6>
     <span>
-        <img src="https://img.shields.io/badge/python-%23777BB4.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
     </span>
     <span>
-        <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
     </span>
 </p>
 
